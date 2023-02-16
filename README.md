@@ -44,7 +44,8 @@ cd recipe
 ``` 
 npm start
 ```
-  A browser popped up should be automic once you input ````npm start````, for any reason it did not, open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  A browser popped up should be automic once you input ````npm start````. 
+  For any reason it did not, open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   
   
 Thank you for stopping by 🫶🏻 please leave a star if you enjoy my project 🤓
