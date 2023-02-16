@@ -30,6 +30,11 @@ The following machineries were used in this project:
 ## 📑Requirements
 The requirements needed to run this project: 
   - Have [Node.js](https://nodejs.org/en/) installed.
+  - Create an account with [Spoonacular](https://spoonacular.com/food-api) to get access to your unique API key, then create an .env file along with
+  the following code : 
+  ````
+  REACT_APP_API_KEY = (your unique API key)
+  ````
 
 ## 🚀Launch
   Clone the repository:
