@@ -4,8 +4,7 @@
 
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/anhvietq/recipe?style=plastic">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/anhvietq/recipe?style=plastic">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/anhvietq/Recipe?style=plastic">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/anhvietq/recipe?style=plastic">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/anhvietq/recipe?style=plastic">
 
 
 [About](https://github.com/anhvietq/recipe/edit/main/README.md#about) | 
