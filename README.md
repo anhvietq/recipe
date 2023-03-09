@@ -11,7 +11,11 @@
 [Machineries](https://github.com/anhvietq/recipe/edit/main/README.md#machinerird)  | 
 [Requirements](https://github.com/anhvietq/recipe/edit/main/README.md#requirements)  | 
 [Launch](https://github.com/anhvietq/recipe/edit/main/README.md#launch) 
+
+<img src="https://github.com/anhvietq/recipe/blob/main/src/components/Images/main%20menu.png" width=50% height=50%>
+<img src="https://github.com/anhvietq/recipe/blob/main/src/components/Images/recipe.png" width=50% height=50%>
 </div>
+
 
 # 📢About
 
